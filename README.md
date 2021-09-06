@@ -1,2 +1,0 @@
-# helloWorldJava
-Basic of java.
